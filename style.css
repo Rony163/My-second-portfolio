@@ -10,8 +10,17 @@ h1{
 }
 .button-link{
     text-decoration: none;
-    background-color:orange;
+    background-image: linear-gradient(blue, cyan);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
+}
+.first{
+    display: flex;
+}
+.half{
+    width: 50%;
+}
+.half img{
+    width: 60%;
 }
