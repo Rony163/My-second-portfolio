@@ -8,3 +8,10 @@ h1{
 .color{
     color: orange;
 }
+.button-link{
+    text-decoration: none;
+    background-color:orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
