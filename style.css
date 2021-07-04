@@ -3,10 +3,13 @@ body{
     margin: 0px;
 }
 h1{
-    font-size: 50px;
+    font-size: 48px;
 }
 .color{
     color: orange;
+}
+.text{
+    text-align: justify;
 }
 .button-link{
     text-decoration: none;
@@ -14,13 +17,20 @@ h1{
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
+    font-weight: 700;
 }
 .first{
     display: flex;
+    margin: 50px;
 }
 .half{
     width: 50%;
+    padding: 5%;
 }
 .half img{
-    width: 60%;
+    width: 80%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
